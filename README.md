@@ -24,7 +24,6 @@
 - **AJAX:** For dynamic updates without refreshing the page
 
 ## 📸 Screenshots
-(Add relevant screenshots of your project here)
 
 ## ⚙️ Installation Guide
 1. Clone this repository:
